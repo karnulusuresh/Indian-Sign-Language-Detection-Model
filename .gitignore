@@ -1,0 +1,9 @@
+.venv/
+dataset/
+hand_crop_dataset/
+missed_images/
+split_dataset/
+webcam_dataset/
+models/
+*.zip
+.ipynb_checkpoints/
